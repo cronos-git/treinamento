@@ -6,16 +6,6 @@ Programa estruturado para **videoaulas curtas**, organizadas no **YouTube (priva
 
 Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definida nos documentos do projeto.
 
----
-
-# 📊 Premissas Pedagógicas (Modelo EAD)
-
-✅ Vídeos curtos (microlearning)  
-✅ Demonstrações práticas no sistema  
-✅ Aprendizado progressivo  
-✅ Organização por módulos/trilhas  
-✅ Autonomia do usuário  
-✅ Redução da dependência de suporte técnico  
 
 ---
 
@@ -170,4 +160,181 @@ Cada vídeo =
 | ⏱️ Tempo total | **≈ 240 min** |
 | 📺 Média por vídeo | 7,5 min |
 
+
+
+
+---
+# 🎓 Trilhas de Aprendizagem por Perfil — SEPFULL
+
+Estrutura de trilhas pedagógicas para organização dentro do **Moodle**, baseada no programa de videoaulas do treinamento SEPFULL.
+
+Objetivo:
+
+✅ aprendizado orientado por função  
+✅ reduzir tempo de capacitação  
+✅ entregar somente o que cada perfil precisa  
+✅ facilitar onboarding institucional  
+
+Cada trilha utiliza os vídeos já definidos no treinamento de 4h, reorganizados por **papel operacional**.
+
+---
+
+# 👷 Trilha 1 — EXECUTOR (Usuário Operacional)
+
+## 🎯 Perfil
+Usuário responsável por **executar tarefas**, registrar atividades e acompanhar suas entregas.
+
+Exemplos:
+- Técnicos
+- Bolsistas
+- Servidores operacionais
+- Equipe de campo
+
+---
+
+## 🎓 Objetivo da Trilha
+
+Capacitar o usuário para:
+
+✅ navegar no sistema  
+✅ visualizar tarefas atribuídas  
+✅ executar atividades corretamente  
+✅ registrar evidências e anexos  
+
+---
+
+## 📚 Conteúdo da Trilha
+
+| Ordem | Vídeo | Tema | Prioridade |
+|---|---|---|---|
+| 1 | 0.1 | 🌐 Visão geral do sistema | Alta |
+| 2 | 0.2 | 👤 Navegação e perfis | Alta |
+| 3 | 1.1 | 🧾 Cadastro básico (consulta) | Média |
+| 4 | 5.1 | 🧩 Cadastro e execução de tarefas | Alta |
+| 5 | 5.3 | 🗓️ Minhas tarefas e calendário | Alta |
+| 6 | 4.3 | 📅 Kanban (acompanhar status) | Alta |
+| 7 | 4.4 | 📎 Anexos e documentos | Alta |
+| 8 | 7.1 | 🤖 IA para consulta de dados | Baixa |
+
+---
+
+## ⏱️ Carga estimada
+**≈ 60 minutos**
+
+---
+
+## ✅ Competências Desenvolvidas
+
+- Uso diário do sistema
+- Atualização de tarefas
+- Registro de atividades
+- Comunicação operacional
+
+---
+
+# 🔎 Trilha 2 — FISCAL (Acompanhamento e Controle)
+
+## 🎯 Perfil
+Usuário responsável por **acompanhar execução**, validar entregas e realizar vistorias.
+
+Exemplos:
+- Fiscal de contrato
+- Supervisor
+- Auditor interno
+- Coordenador técnico
+
+---
+
+## 🎓 Objetivo da Trilha
+
+Capacitar para:
+
+✅ acompanhar execução  
+✅ validar atividades  
+✅ realizar vistorias  
+✅ monitorar indicadores operacionais  
+
+---
+
+## 📚 Conteúdo da Trilha
+
+| Ordem | Vídeo | Tema | Prioridade |
+|---|---|---|---|
+| 1 | 0.1 | 🌐 Introdução ao sistema | Alta |
+| 2 | 4.1 | 📌 Estrutura do projeto | Alta |
+| 3 | 5.1 | 🧩 Estrutura das tarefas | Alta |
+| 4 | 5.4 | 🔍 Vistorias e rastreabilidade | Alta |
+| 5 | 4.5 | 📊 Indicadores e reuniões | Alta |
+| 6 | 3.1 | 🚨 Conceitos de risco | Média |
+| 7 | 3.4 | 📊 Dashboard de riscos | Média |
+| 8 | 7.2 | 📧 Alertas automáticos | Alta |
+
+---
+
+## ⏱️ Carga estimada
+**≈ 75 minutos**
+
+---
+
+## ✅ Competências Desenvolvidas
+
+- Fiscalização digital
+- Controle de execução
+- Monitoramento de riscos
+- Validação de entregas
+
+---
+
+# 🧭 Trilha 3 — GESTOR (Gestão e Decisão)
+
+## 🎯 Perfil
+Usuário responsável por **planejamento, gestão e tomada de decisão**.
+
+Exemplos:
+- Gestor de projetos
+- Coordenador institucional
+- Diretores
+- PMO
+
+---
+
+## 🎓 Objetivo da Trilha
+
+Capacitar para:
+
+✅ planejar estrategicamente  
+✅ acompanhar projetos  
+✅ analisar indicadores  
+✅ tomar decisões baseadas em dados  
+
+---
+
+## 📚 Conteúdo da Trilha
+
+| Ordem | Vídeo | Tema | Prioridade |
+|---|---|---|---|
+| 1 | 0.1 | 🌐 Visão geral SEPFULL | Alta |
+| 2 | 2.1 | 🗂️ Planejamento e portfólio | Alta |
+| 3 | 2.2 | 🌎 ODS e estratégia | Alta |
+| 4 | 2.3 | 🎯 Indicadores e metas | Alta |
+| 5 | 2.4 | 📊 Análises estratégicas | Alta |
+| 6 | 4.1 | 📌 Gestão de projetos | Alta |
+| 7 | 4.3 | 📅 Gantt e Kanban | Alta |
+| 8 | 4.5 | 📊 Indicadores do projeto | Alta |
+| 9 | 6.3 | 📈 Análise financeira | Média |
+|10 | 3.4 | ⚠️ Dashboard de riscos | Alta |
+|11 | 7.1 | 🤖 IA para apoio à decisão | Alta |
+
+---
+
+## ⏱️ Carga estimada
+**≈ 95 minutos**
+
+---
+
+## ✅ Competências Desenvolvidas
+
+- Gestão estratégica
+- Governança de projetos
+- Análise de desempenho
 
