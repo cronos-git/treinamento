@@ -7,8 +7,9 @@ Programa estruturado para **videoaulas curtas**, organizadas no **YouTube (priva
 Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definida nos documentos do projeto.
 
 
----
 
+
+---
 # ⏱️ Estrutura Geral do Curso
 
 | Item | Valor |
@@ -20,22 +21,9 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 🎓 Modelo | Microlearning EAD |
 
 ---
-
-# 🧭 Organização no Moodle
-
-Cada seção do Moodle = **1 módulo do sistema**
-
-Cada vídeo =  
-📺 URL (YouTube privado)  
-📄 Material PDF (opcional)  
-✅ Questionário rápido
-
----
-
 # 📚 PROGRAMA COMPLETO DE VIDEOAULAS
 
 ---
-
 ## 🎬 Módulo 0 — Introdução ao SEPFULL
 **Tempo:** 20 min  
 **Vídeos:** 3
@@ -47,7 +35,6 @@ Cada vídeo =
 | 0.3 | 📊 Interface, menus e dashboards | 6 |
 
 ---
-
 ## 👥 Módulo 1 — Pessoas e Cadastros
 **Tempo:** 25 min  
 **Vídeos:** 4
@@ -60,7 +47,6 @@ Cada vídeo =
 | 1.4 | 📈 Funil de oportunidades |
 
 ---
-
 ## 🧠 Módulo 2 — Planejamento Estratégico
 **Tempo:** 35 min  
 **Vídeos:** 5
@@ -74,7 +60,6 @@ Cada vídeo =
 | 2.5 | 🧩 5W2H e dashboards |
 
 ---
-
 ## ⚠️ Módulo 3 — Gestão de Riscos
 **Tempo:** 25 min  
 **Vídeos:** 4
@@ -87,7 +72,6 @@ Cada vídeo =
 | 3.4 | 📊 Dashboards de risco |
 
 ---
-
 ## 📁 Módulo 4 — Gestão de Projetos
 **Tempo:** 45 min  
 **Vídeos:** 6
@@ -102,7 +86,6 @@ Cada vídeo =
 | 4.6 | 🔗 Requisições e integrações externas |
 
 ---
-
 ## ✅ Módulo 5 — Tarefas e Vistorias
 **Tempo:** 30 min  
 **Vídeos:** 4
@@ -115,7 +98,6 @@ Cada vídeo =
 | 5.4 | 🔍 Vistorias e rastreabilidade |
 
 ---
-
 ## 💰 Módulo 6 — Financeiro
 **Tempo:** 25 min  
 **Vídeos:** 3
@@ -127,7 +109,6 @@ Cada vídeo =
 | 6.3 | 📈 Gráficos financeiros por projeto |
 
 ---
-
 ## 🤖 Módulo 7 — IA, Segurança e Recursos Avançados
 **Tempo:** 25 min  
 **Vídeos:** 3
@@ -138,28 +119,6 @@ Cada vídeo =
 | 7.2 | 📧 Alertas automáticos e logs |
 | 7.3 | 🔐 Segurança, ajuda e recursos técnicos |
 
----
-
-## 🎓 Encerramento
-**Tempo:** 10 min  
-**Vídeos:** 2
-
-| Vídeo | Tema |
-|---|---|
-| 8.1 | ✅ Boas práticas de uso |
-| 8.2 | 📞 Próximos passos e suporte |
-
----
-
-# 📊 Resumo Geral
-
-| Item | Quantidade |
-|---|---|
-| 📚 Módulos Moodle | **9 seções** |
-| 🎬 Vídeos totais | **32 vídeos** |
-| ⏱️ Tempo total | **≈ 240 min** |
-| 📺 Média por vídeo | 7,5 min |
-
 
 
 
@@ -169,7 +128,6 @@ Cada vídeo =
 Estrutura de trilhas pedagógicas para organização dentro do **Moodle**, baseada no programa de videoaulas do treinamento SEPFULL.
 
 Objetivo:
-
 ✅ aprendizado orientado por função  
 ✅ reduzir tempo de capacitação  
 ✅ entregar somente o que cada perfil precisa  
@@ -178,7 +136,6 @@ Objetivo:
 Cada trilha utiliza os vídeos já definidos no treinamento de 4h, reorganizados por **papel operacional**.
 
 ---
-
 # 👷 Trilha 1 — EXECUTOR (Usuário Operacional)
 
 ## 🎯 Perfil
@@ -191,7 +148,6 @@ Exemplos:
 - Equipe de campo
 
 ---
-
 ## 🎓 Objetivo da Trilha
 
 Capacitar o usuário para:
@@ -202,7 +158,6 @@ Capacitar o usuário para:
 ✅ registrar evidências e anexos  
 
 ---
-
 ## 📚 Conteúdo da Trilha
 
 | Ordem | Vídeo | Tema | Prioridade |
@@ -217,12 +172,10 @@ Capacitar o usuário para:
 | 8 | 7.1 | 🤖 IA para consulta de dados | Baixa |
 
 ---
-
 ## ⏱️ Carga estimada
 **≈ 60 minutos**
 
 ---
-
 ## ✅ Competências Desenvolvidas
 
 - Uso diário do sistema
@@ -231,7 +184,6 @@ Capacitar o usuário para:
 - Comunicação operacional
 
 ---
-
 # 🔎 Trilha 2 — FISCAL (Acompanhamento e Controle)
 
 ## 🎯 Perfil
@@ -244,7 +196,6 @@ Exemplos:
 - Coordenador técnico
 
 ---
-
 ## 🎓 Objetivo da Trilha
 
 Capacitar para:
@@ -255,7 +206,6 @@ Capacitar para:
 ✅ monitorar indicadores operacionais  
 
 ---
-
 ## 📚 Conteúdo da Trilha
 
 | Ordem | Vídeo | Tema | Prioridade |
@@ -270,12 +220,10 @@ Capacitar para:
 | 8 | 7.2 | 📧 Alertas automáticos | Alta |
 
 ---
-
 ## ⏱️ Carga estimada
 **≈ 75 minutos**
 
 ---
-
 ## ✅ Competências Desenvolvidas
 
 - Fiscalização digital
@@ -284,7 +232,6 @@ Capacitar para:
 - Validação de entregas
 
 ---
-
 # 🧭 Trilha 3 — GESTOR (Gestão e Decisão)
 
 ## 🎯 Perfil
@@ -297,7 +244,6 @@ Exemplos:
 - PMO
 
 ---
-
 ## 🎓 Objetivo da Trilha
 
 Capacitar para:
@@ -308,7 +254,6 @@ Capacitar para:
 ✅ tomar decisões baseadas em dados  
 
 ---
-
 ## 📚 Conteúdo da Trilha
 
 | Ordem | Vídeo | Tema | Prioridade |
