@@ -9,6 +9,8 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 
 
 
+
+
 ---
 # ⏱️ Estrutura Geral do Curso
 
@@ -21,10 +23,10 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 🎓 Modelo | Microlearning EAD |
 
 ---
-# 📚 PROGRAMA COMPLETO DE VIDEOAULAS
+# 📚 1. PROGRAMA COMPLETO DE TREINAMENTO
 
 ---
-## 🎬 Módulo 0 — Introdução ao SEPFULL
+## 🎬 1.1. Módulo 1 — Introdução ao SEPFULL
 **Tempo:** 20 min  
 **Vídeos:** 3
 
@@ -35,7 +37,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 0.3 | 📊 Interface, menus e dashboards | 6 |
 
 ---
-## 👥 Módulo 1 — Pessoas e Cadastros
+## 👥 1.2. Módulo 2 — Pessoas e Cadastros
 **Tempo:** 25 min  
 **Vídeos:** 4
 
@@ -47,7 +49,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 1.4 | 📈 Funil de oportunidades |
 
 ---
-## 🧠 Módulo 2 — Planejamento Estratégico
+## 🧠 1.3. Módulo 3 — Planejamento Estratégico
 **Tempo:** 35 min  
 **Vídeos:** 5
 
@@ -60,7 +62,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 2.5 | 🧩 5W2H e dashboards |
 
 ---
-## ⚠️ Módulo 3 — Gestão de Riscos
+## ⚠️ 1.4. Módulo 4 — Gestão de Riscos
 **Tempo:** 25 min  
 **Vídeos:** 4
 
@@ -72,7 +74,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 3.4 | 📊 Dashboards de risco |
 
 ---
-## 📁 Módulo 4 — Gestão de Projetos
+## 📁 1.5. Módulo 5 — Gestão de Projetos
 **Tempo:** 45 min  
 **Vídeos:** 6
 
@@ -86,7 +88,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 4.6 | 🔗 Requisições e integrações externas |
 
 ---
-## ✅ Módulo 5 — Tarefas e Vistorias
+## ✅ 1.6. Módulo 6 — Tarefas e Vistorias
 **Tempo:** 30 min  
 **Vídeos:** 4
 
@@ -98,7 +100,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 5.4 | 🔍 Vistorias e rastreabilidade |
 
 ---
-## 💰 Módulo 6 — Financeiro
+## 💰 1.7. Módulo 7 — Financeiro
 **Tempo:** 25 min  
 **Vídeos:** 3
 
@@ -109,7 +111,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 | 6.3 | 📈 Gráficos financeiros por projeto |
 
 ---
-## 🤖 Módulo 7 — IA, Segurança e Recursos Avançados
+## 🤖 1.8. Módulo 8 — IA, Segurança e Recursos Avançados
 **Tempo:** 25 min  
 **Vídeos:** 3
 
@@ -123,7 +125,7 @@ Baseado nos módulos do sistema 📄 e na metodologia de treinamento EAD definid
 
 
 ---
-# 🎓 Trilhas de Aprendizagem por Perfil — SEPFULL
+# 🎓 2. Trilhas de Aprendizagem por Perfil — SEPFULL
 
 Estrutura de trilhas pedagógicas para organização dentro do **Moodle**, baseada no programa de videoaulas do treinamento SEPFULL.
 
@@ -136,7 +138,7 @@ Objetivo:
 Cada trilha utiliza os vídeos já definidos no treinamento de 4h, reorganizados por **papel operacional**.
 
 ---
-# 👷 Trilha 1 — EXECUTOR (Usuário Operacional)
+# 👷 2.1. Trilha 1 — EXECUTOR (Usuário Operacional)
 
 ## 🎯 Perfil
 Usuário responsável por **executar tarefas**, registrar atividades e acompanhar suas entregas.
@@ -184,7 +186,7 @@ Capacitar o usuário para:
 - Comunicação operacional
 
 ---
-# 🔎 Trilha 2 — FISCAL (Acompanhamento e Controle)
+# 🔎 2.2. Trilha 2 — FISCAL (Acompanhamento e Controle)
 
 ## 🎯 Perfil
 Usuário responsável por **acompanhar execução**, validar entregas e realizar vistorias.
@@ -232,7 +234,7 @@ Capacitar para:
 - Validação de entregas
 
 ---
-# 🧭 Trilha 3 — GESTOR (Gestão e Decisão)
+# 🧭 2.3. Trilha 3 — GESTOR (Gestão e Decisão)
 
 ## 🎯 Perfil
 Usuário responsável por **planejamento, gestão e tomada de decisão**.
